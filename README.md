@@ -7,7 +7,7 @@ See examples:
 - [Allure History List](https://mgrybyk.github.io/allure-report-branch-action/allure-action/main/self-test/)
 - [Allure Report](https://mgrybyk.github.io/allure-report-branch-action/allure-action/main/self-test/5931206129_1692650191550/)
 - [Browse different branches](https://mgrybyk.github.io/allure-report-branch-action/allure-action/)
-- [Pull Request Comment Example](https://github.com/mgrybyk/allure-report-branch-action/pull/4)
+- [Pull Request Comment Example](https://github.com/mgrybyk/allure-report-branch-action/pull/12)
 
 *Compatible with [HTML Trend Report Action](https://github.com/marketplace/actions/publish-report-per-branch).*
 
